@@ -19,6 +19,8 @@ Eu sou o Fernando Luis Herrera de Oliveira, sou um Programador Front-end, atualm
 <br>
 <br>
 
+### O que procuro para 2023?
+Estou buscando uma transição de carreira, atualmente estou trabalhando de Uber na cidade de São Paulo e estou estudando programação para mudar de vida, tenho a oferecer muita força de vontade em aprender novas tecnologias, e dedicação extrema a novos desafios!
 
 [![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoHerrera1)](https://github.com/anuraghazra/github-readme-stats)
 
