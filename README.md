@@ -10,5 +10,16 @@ Eu sou o Fernando Luis Herrera de Oliveira, sou um Programador Front-end, atualm
 
 ### Contato:
 
-<a href=https://www.instagram.com/naandoherrera/>
-<img align=left" "alt="instagram"
+<a href="https://www.instagram.com/naandoherrera/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" aling="left" width="22px" />
+</a>
+<a href="https://www.linkedin.com/in/fernando-luis-herrera-de-oliveira-a49184235/" target="_blank"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" aling="left" width="22px" />
+<br>
+<br>
+<br>
+
+
+[![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoHerrera1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoHerrera1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
